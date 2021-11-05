@@ -21,6 +21,10 @@
             color: yellow;
           }
         }
+
+        h1:hover {
+          background-color: blue;
+        }
       </style>
       <h1>HELLO WORLD!</h1>
     </div>
